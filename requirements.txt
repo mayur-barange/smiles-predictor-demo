@@ -1,11 +1,3 @@
-torch
-torchvision
-torchaudio
-transformers
-deepchem
-rdkit-pypi
-scikit-learn
-pandas
-matplotlib
-seaborn
 streamlit
+numpy
+pandas
